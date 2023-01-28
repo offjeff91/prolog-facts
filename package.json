@@ -1,0 +1,20 @@
+{
+ "name": "prolog-facts",
+ "version": "1.0.0",
+ "description": "A JavaScript function to convert objects to Prolog facts",
+ "main": "index.js",
+ "scripts": {
+   "test": "jest"
+ },
+ "dependencies": {
+ },
+ "devDependencies": {
+   "jest": "^26.4.2"
+ },
+ "repository": {
+   "type": "git",
+   "url": "https://github.com/offjeff91/objectToPrologFacts.git"
+ },
+ "author": "Your Name",
+ "license": "MIT"
+}
