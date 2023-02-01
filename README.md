@@ -1,5 +1,9 @@
 # prolog-facts
-A JavaScript function to convert objects to Prolog facts
+An npm package that take any simple Javascript object and represent it as a Prolog fact
+
+##npm
+
+https://www.npmjs.com/package/prolog-facts
 
 ## Installation
 ```
