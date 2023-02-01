@@ -1,7 +1,7 @@
 # prolog-facts
 An npm package that take any simple Javascript object and represent it as a Prolog fact
 
-##npm
+## npm
 
 https://www.npmjs.com/package/prolog-facts
 
